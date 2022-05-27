@@ -14,7 +14,7 @@ impl Rectangle {
             bottom_right: Point {
                 x: x + width,
                 y: y + height,
-            }
+            },
         }
     }
 }
